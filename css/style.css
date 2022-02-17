@@ -153,9 +153,9 @@ img{
 }
 
 .text{
-  justify-content: center;
   max-height: 25vh;
   overflow: scroll;
+  align-self: center;
 }
 
 
